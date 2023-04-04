@@ -1,6 +1,5 @@
 /* main.c */
 #include <stdio.h>
-
 #include "askname.h"
 
 int main(int argc, char **argv)
@@ -9,6 +8,6 @@ int main(int argc, char **argv)
 
     askname(first, last);
 
-    printf("Hello, %s %s!\n", first, last);
+    printf("Hello, %s %s!))fvguhngu\n", first, last);
     return 0;
 }
